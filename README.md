@@ -1,2 +1,2 @@
 # Web-design-sample-
-Made a small hotel website using simple web design basics and used canva to build.
+Made a small hotel website page using simple web design basics and used canva to build.
